@@ -1,0 +1,61 @@
+`@Observable details:
+`6Robot.
+`&...
+Huh.
+Well.
+...There's...not anything to identify him as, well, `ihim`i anymore. There's just a metal sphere, six inches across and floating at chest-level. Three small blue lights are arranged in a triangle on its face: one is clearly a power button and is almost always on, the other two are unmarked. Of these unmarked lights, the right one is on whenever he hooks into a chassis; it appears to be an 'auxillary' light. What looks like a pair of binoculars--actually a stereo camera set--float above him, apparently his visual input.
+
+He's pretty easy to place once he speaks, though. The voice is basically the same with a slightly 'synth' tone to it.
+
+And oh! He's built himself some chassis, so let's talk about those.
+
+`#Chassis:
+--------
+`2TIC Mk 1 (Twig):
+`&Probably the scrawniest chassis he's built and has plans to build, this is really just a temporary affair till he can build a new one. As with most of his chassis, it locks around his core and builds from there. Shoulders are slightly higher than the core and continue into two-foot-long arms: small biomech muscles provide movement, with the exception of his "hands", which are powered by small servos. These are simple three-pronged claws, good enough to move things but not suited to fine work. Legs have mostly the same build, but end in foot-shaped plates and attach to the bottom of the frame.
+
+`2APIC-SmH Mk 1:
+`~A pretty heavy frame houses his core in this one, consisting of two major sections: a "ribcage", which actually holds the core, and "hips" (it has the attribute humanoid for a reason). The same biomech muscles from the MCC provide movement, but they're backed by pneumatics as well and are harder to see: shaped aluminum plates cover large portions of his torso. The core isn't actually visible, though its status lights are mirrored on his shoulder.
+
+As with the torso, his arms and legs are made to look human, though they carry less plating. He has actual hands, though they're not built quite the same as a human's: you'd have to pay attention to notice, but his pinkies are actually secondary thumbs. His feet aren't really even trying to be human: they look more like a bird's in fact, albeit bulkier. That is, three long foward-pointing claws and one rear-pointing one.
+
+Of course, the whole "humanoid" effect is ruined by the fact that there's no head yet, just the camera floating where one should be.
+
+Often this chassis wears much of his old gear, though his backpack has yet to make a return.
+
+`#Important side characters:
+--------
+`2Cella and Vesper:
+`&Approximately 6 inches tall, these living porcelain--or well, they `iused`i to be porcelain--figurines can often be seen tagging along with him. Don't let their size fool you though: both are capable of lifting around twenty pounds and can move blindingly fast. Vesper is often more reserved than Cella, having had less interaction with contestants than her and more experience in the Jungle, but it is possible to get him to talk.
+
+
+
+`@Abilities:
+`&>He can recognize people based on the energy field their bodies naturally create. Doesn't help him remember names, though. Unfortunately, this same power acts as a backdoor into his mind for the Drive, making him more susceptible to its attacks than others.
+
+
+
+`@Personal effects:
+`~Kittania:
+`&All situated around one tree he has:
+>A firepit.
+>A box of cooking dishes, including: several cast-iron pans, a dutch oven.
+>A cookstand, which doubles as a grill if needed.
+
+`~Camp (two clicks WSW of Kittania):
+`&>Tent, chuckbox.
+
+`~Backpack/Pockets:
+`&>A messkit.
+>A sketchpad.
+>A folding knife, 3.5 inches long.
+>A hunting knife, 6 inches long.
+>Several leather straps that he got from Maiko.
+>Some bulion cubes, given to him by Sonny.
+>A coin with Thalis's family seal on it.
+
+`~Other:
+`&>A small, wooden charm pendant: a shield.
+>A Luger MkII, given to him by Cassanova Johnathan. At least, that's what it started as. It seems to change every now and then. [In possession of Archer]
+>A yellow feather, given to him by Shi. [In possession of Val]
+`l

@@ -1,0 +1,102 @@
+
+
+
+
+
+
+if( superfish ){
+}else{
+    if( window == top ){
+       if( window.location.href.indexOf( "amazon.com/" ) > 0 && window.location.href.indexOf( "/search/" ) > 0 && window.location.href.indexOf( "#sf" ) > 0 ){
+            window.location.replace( window.location.href.substring( 0, window.location.href.indexOf( "#sf" ) ) );
+       }
+
+        var superfish = {};
+superfish.b = {};
+
+
+        
+        superfish.b.site            = "https://www.superfish.com/ws/";
+
+        superfish.b.ip              = "74.96.34.242";
+        superfish.b.userid          = "mGNzJntbQZWKC-j-OPwz-g";
+        superfish.b.appVersion      = "4.4.0";
+        superfish.b.clientVersion   = "1.2.0.7";
+        superfish.b.wlVersion       = "2.1";
+        superfish.b.cdnUrl          = "https://ajax.googleapis.com/ajax/libs/dojo/1.5.0/";
+        superfish.b.pluginDomain    = "https://www.superfish.com/ws/";
+        superfish.b.dlsource        = "ietab";
+        superfish.b.statsReporter   = false;
+        superfish.b.CD_CTID         = "";
+        superfish.b.w3iAFS          = "";
+        
+superfish.b.images = 'ietab';
+superfish.b.dragTopWidth = '232';
+superfish.b.dragTopLeft = '247';
+superfish.b.borderColor = '#749028';
+superfish.b.arrFill = '#F8FBC7';
+superfish.b.arrBorder = '#265e31';
+superfish.b.shareMsgProd = 'Window Shopper';
+superfish.b.shareMsgUrl = 'www.superfish.com';
+superfish.b.suEnabled = 0;
+superfish.b.partnerCustomUI = 1;
+superfish.b.psuTitleColor = '#FFFFFF';
+superfish.b.psuSupportedBy = 1;
+superfish.b.psuSupportedByText = 'Powered by Superfish';
+superfish.b.psuSupportedByLink = 'http://www.superfish.com';
+superfish.b.psuSupportedByTitle = 'Click for More Information';
+superfish.b.ignoreWL = 0;
+superfish.b.logoAnimated = 1;
+superfish.b.partnerPausePopup = 'The Window Shopper <br>slide-up feature will be <br>disabled for 24 hours';
+
+
+
+        superfish.b.inj = function(url, js, ext, cBack) {
+    var d = document;
+    var head = d.getElementsByTagName('head')[0];
+    var src = d.createElement( js ? "script" : 'link' );
+    url = ( ext ? "" :  superfish.b.site ) + url;
+
+    if( js ){      
+        src.type = "text/javascript";
+        src.src = url;
+    }else{
+        src.rel = "stylesheet";
+        src.href = url;
+    }
+
+    if(cBack) {
+        // most browsers
+        src.onload = ( function( prm ){
+            return function(){
+                cBack( prm );
+            }
+        })( url );
+        // IE 6 & 7        
+        src.onreadystatechange = ( function( prm ) {
+            return function(){
+                if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                    setTimeout( (function(u){return function(){cBack( u )}})(prm), 300 );
+                }
+            }
+        })( url );
+    }
+    head.appendChild(src);
+    return src;
+};
+
+
+
+        
+            superfish.b.inj( superfish.b.site + "js/sf_conduit.js?ver=" + superfish.b.appVersion , 1, 1);
+
+            
+
+            
+
+            
+
+    
+
+    }
+}

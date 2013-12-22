@@ -1,0 +1,36 @@
+SOUPS:
+
+	Poultry, vegetable base:
+	-------
+	>Cook poultry
+	>Add to pot:
+		>Poultry
+		>Vegetables: Celery, carrots, etc.
+		>Herb bundle (optional)
+		>Water
+	>Place over heat, check ocassionally.
+
+
+	"Raptor Stew"
+	-------
+	>1lb Kielbasa
+	>1lb hamburger
+		>Brown hamburger, add Kielbasa
+	>Add:
+		1/2 cup onion
+		16 oz pork and beans
+		can kidney beans
+		can butter beans
+		3/4 cup brown sugar
+		3/2 tlbs mustard
+		1/2 cup ketchup
+	Simmer 30 min
+	
+----------------------------------------------
+MEAT-BASED:
+
+	Steak:
+	------
+	>Apply olive oil, salt, pepper.
+	>Add to medium heat, cook 4-5 min a side.
+	>Let stand after removing from heat.
