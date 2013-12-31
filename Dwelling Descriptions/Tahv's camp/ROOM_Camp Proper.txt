@@ -1,0 +1,16 @@
+Honestly, this looks more like a temporary shelter than a home. A canvas tent sits on the edge of the forest, trees sheltering it a bit from the elements. Beside the tent is a table with a chuckbox at the end and a dining fly above. Further away, open to the sky, is a ring of stones about a yard across, grass inside it chared away from fires past. The ring is surrounded by various chairs and logs, and there's a sizable pile of branches behind one of the closer ones.
+
+Looking closer, there's a note on the chuckbox: `2`iFeel free to borrow gear to cook or eat with, as long as it's cleaned when you're done using it. Also, there's room in the tent if you need a place to crash, otherwise feel free to set up around the fire.`n`n-Tahvohck`i
+
+[Campifre](Nomem)
+Assuming someone decided to light one recently, then a fire crackles in the pit, woodsmoke always blowing `ijust`i right to drift over you. In some people's opinion, a small price to pay for the heat provided, but in other's: where the `ihell`i are the marshmallows.
+
+[Campfire](on)
+A fire crackles in the pit, woodsmoke always blowing `ijust`i right to drift over you. In some people's opinion, a small price to pay for the heat provided, but in other's: where the `ihell`i are the marshmallows.
+
+[Light a fire]
+
+[Douse the fire]
+
+[Dining fly]
+There's not much to mention here: it's a wooden table with a tarp supported over it, basically. The only real object of interest would be the chuckbox, with its note and assortment of cookery, including a cast iron skillet.

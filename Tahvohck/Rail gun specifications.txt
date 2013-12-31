@@ -1,0 +1,30 @@
+4ft (1.2192m) long
+Slug size: 60mm x 10mm (~75g)
+
+
+At speed: 1km/s
+	TTE: 0.0024384 s (2.4ms)
+	Acceleration: 410,104.99 m/s²
+	Energy
+		 50g - 25	kJ
+		 75g - 37.5	kJ
+		 100 - 50	kJ
+		 150 - 75	kJ
+		 
+At speed: 2km/s
+	TTE: 0.0012192 s (1.2ms)
+	Acceleration: 1,640,419.95 m/s²
+	Energy
+		 50g - 100 kJ
+		 75g - 150 kJ
+		100g - 200 kJ
+		150g - 300 kJ
+		
+At speed: 4km/s
+	TTE: 0.0006096 s (0.6ms)
+	Acceleration: 6,561,679.79 m/s²
+	Energy
+		 50g -  400 kJ
+		 75g -  600 kJ
+		100g -  800 kJ
+		150g - 1200 kJ
