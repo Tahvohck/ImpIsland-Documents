@@ -1,3 +1,11 @@
+###
+# Title
+###
+Cabin in the Woods
+
+###
+# Description
+###
 The path opens into another clearing--about a third the size of the lake--and continues around the edge of it, stopping at a log cabin.
 
 The cabin is simple, if somewhat large: with two floors and a raised porch, it'd make a respectable house. The porch has several chairs spread around a table on one side and a hanging swing on the other, big enough for two people to sit in.
