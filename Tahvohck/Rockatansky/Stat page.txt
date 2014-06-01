@@ -1,0 +1,46 @@
+Tahvohck
+Real name: [Edward Richardson]
+Height: 5' 10"
+Weight: 170 lbs
+
+HUMAN
+
+______
+SKILLS
+	COMBAT:
+		HtH			-	X
+		Melee		-	X
+		ArcRng		-	7
+		ModRng		-	X
+	PILOTING:
+		Animal		-	X
+		Vehicle		-	1
+	TECHNICAL:
+		Salvage		-	3
+		Mechanics	-	1
+		Electronics	-	X
+		Medic		-	3
+	MISCELANEOUS:
+		Foraging	-	2
+		Brewing		-	X
+		Haggling	-	X
+		History		-	X
+		Zoology		-	X
+
+_______________
+POWERS AND GEAR
+	ELEMENTAL		(G1-1_2): Electromagnetism (50m max, 30m active minor, 15m active major)
+	
+	SMALL VEHICLE	(G3-3_1): Harley Road King
+	
+X	BASIC MELEE		(G2-4_1): Gutting knife (+2)
+X	COMBAT MELEE	(G2-4_2): Scrap sword (+4)
+	ARCHAIC RANGED	(G2-3_2): Compound bow (+4)
+		4[AGL] + 7[Skill] + 4[Wep] + d20 = <d20 + 15>
+X	MODERN RANGED	(G2-1_2): M14 (+4)
+	
+	MEDIUM ARMOR	(G3-2_2): Metal-lined riding gear (+4)
+		4[AGL] + 4[Arm] + d20 = <d20 + 8>
+	
+	RADAR			(G4-6_1): Radar, 10km range, baseball or larger, rock or metal, motion
+	
