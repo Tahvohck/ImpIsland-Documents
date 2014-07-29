@@ -1,10 +1,12 @@
 Tahvohck
-Real name: [Edward Richardson]
+Real name: [-----------------]
 Height: 5' 10"
 Weight: 170 lbs
 
 HUMAN
 
+SAFICF
+343326
 ______
 SKILLS
 	COMBAT:
@@ -33,11 +35,10 @@ POWERS AND GEAR
 	
 	SMALL VEHICLE	(G3-3_1): Harley Road King
 	
-X	BASIC MELEE		(G2-4_1): Gutting knife (+2)
-X	COMBAT MELEE	(G2-4_2): Scrap sword (+4)
+	BASIC MELEE		(G2-4_1): Gutting knife (+2)
+X	COMBAT MELEE	(NON)	: Scrap sword (+2)
 	ARCHAIC RANGED	(G2-3_2): Compound bow (+4)
 		4[AGL] + 7[Skill] + 4[Wep] + d20 = <d20 + 15>
-X	MODERN RANGED	(G2-1_2): M14 (+4)
 	
 	MEDIUM ARMOR	(G3-2_2): Metal-lined riding gear (+4)
 		4[AGL] + 4[Arm] + d20 = <d20 + 8>
