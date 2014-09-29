@@ -1,13 +1,10 @@
 Kittymorph:
 
--Tahvohck, Kittymorph
 5'10", Brownish fur. Blue eyes without pupils, wearing only cargo jeans, a bandolier, and a hiking pack. Looks ~22.
+-Kittymorph
 
 5'10", Brownish fur. Blue eyes without pupils, but this fact is obscured by the heavy cloak shadowing his face. Looks ~22.
 -Cloaked
-
-5'10", Blue merle coat. Blue eyes without pupils, very short snout. Ears stand up and add another inch or two; left on fire. Jeans, digitigrade legs. Looks ~22.
--Mechanic
 
 5'10", Brownish fur, lightly grease-stained. Blue eyes without pupils, obscured by the heavy cloak shadowing his face and the flicker under it. Looks ~22.
 -Cloaked mechanic
@@ -26,13 +23,13 @@ Same as normal. If you could see him. Or smell him. Or detect him at all. ... Ac
 Human:
 
 5'10" with a mop of unruly dirty blond hair, blue pupiless eyes and constantly reddish cheeks. Jeans and a black shirt. Scarred shoulder. ~22.
--Tahvohck, Human
+-Male
 
 5'10" with a mop of unruly dirty blond hair, blue pupiless eyes and constantly reddish cheeks. Wearing a heavy cloak, the hood casts shadows on his face. ~22.
--Tahvohck, Cloaked
+-Cloaked
 
 5'10" shoulder-length dirty blond hair, blue eyes without pupils and constantly reddish cheeks. Jeans and a black shirt; scarred shoulder. Female, ~22.
--Tahvohck, Female
+-Female
 
 --------------------
 Zombie:
