@@ -1,7 +1,7 @@
 ###
 # Title
 ###
-Cabin Lobby
+Cabin in the Woods - Lobby
 
 ###
 # Description
