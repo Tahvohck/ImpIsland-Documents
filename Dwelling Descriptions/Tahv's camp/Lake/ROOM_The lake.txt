@@ -8,7 +8,12 @@ The lake
 ###
 The trees widen out into a large clearing here, a lake shining in it's center. The path splits, one tail leading down to a dock where you sit and enjoy the water, another winding to a bonfire pit on one of the peninsulas into the lake, and the last winding back into the woods, though a tree has fallen across it right now. Walking along the path, you can't help but be grateful for it's presence: the grass around the lake--where it hasn't been beaten down--is waist high and blows around with the slightest of breezes.
 
+[Wedding Reception]
+The trees widen out into a large clearing here, a lake shining in it's center. The path splits, one tail leading down to a dock where you sit and enjoy the water, another winding to a bonfire pit on one of the peninsulas into the lake, and the last winding back into the woods, though a tree has fallen across it right now. Walking along the path, you can't help but be grateful for it's presence: the grass around the lake--where it hasn't been beaten down--is waist high and blows around with the slightest of breezes.`n`nA long table sheltered by a longer white tent groans under the weight of a full buffet from Carter's and drinks from Alyster's. The tent has clear plastic sides that are rolled up in good weather and down in bad, just in case. Tables and chairs are set around the shore. The couple's table is off to one side, and there's someone taking the presents off down a path as they arrive.
 
+###
+# Linked Pages
+###
 [Dead]
 You can't help but feel sad as you enter the clearing here, dead grass sitting limp around your feet. What was a beautiul lake has long dried up, leaving nothing but cracked dirt behind in it's wake, a small mound in it's center showing ruins of- You blink as the mirage fades away, revealing this place's true nature.
 
