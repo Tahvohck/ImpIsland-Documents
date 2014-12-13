@@ -1,30 +1,47 @@
-4ft (1.2192m) long
-Slug size: 60mm x 10mm (~75g)
+3.5ft (1.2192m) long
+
+Rails:
+	2 rails, approx square shape
+	11mm separation
+	DxWxL:		11mm x 22mm x 3.5ft
+	mass:		1,950g each
+				3,900g total
+
+	Rail, carbon steel
+		density:	7.85 g/cm3
+		DxWxL:		5mm x 10mm x 3.5ft
+		mass:		419g per rail
+					838g total
+				
+	TPNC barrel isolator, solid (contact between rail and copper sheathe)
+		density:	3 g/cm3
+		depth:		2mm
+		mass:		154g per rail
+					308g total
+					
+	Copper sheathe
+		density:	8.96 g/cm3
+		depth:		4mm
+		mass:		1,380g per rail
+					2,760g total
 
 
-At speed: 1km/s
-	TTE: 0.0024384 s (2.4ms)
-	Acceleration: 410,104.99 m/s²
-	Energy
-		 50g - 25	kJ
-		 75g - 37.5	kJ
-		 100 - 50	kJ
-		 150 - 75	kJ
-		 
-At speed: 2km/s
-	TTE: 0.0012192 s (1.2ms)
-	Acceleration: 1,640,419.95 m/s²
-	Energy
-		 50g - 100 kJ
-		 75g - 150 kJ
-		100g - 200 kJ
-		150g - 300 kJ
-		
-At speed: 4km/s
-	TTE: 0.0006096 s (0.6ms)
-	Acceleration: 6,561,679.79 m/s²
-	Energy
-		 50g -  400 kJ
-		 75g -  600 kJ
-		100g -  800 kJ
-		150g - 1200 kJ
+Rail bracing:
+	Steel
+	3 bands, 57mm x 46mm x 100mm
+
+	
+Slugs:
+	 25g Steel:		10x41mm
+	 50g Steel:		10x82mm
+	 74g Tungsten:	10x49mm
+	124g Tungsten:	10x82mm
+	
+	
+Firing data, 25g:
+	TBE:		533 µs
+	Ex. Veloci:	4 km/s
+	Ex. Energy:	400.3 kJ
+	Accel:		7505 km/s²
+
+
