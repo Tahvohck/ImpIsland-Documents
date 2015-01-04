@@ -29,6 +29,14 @@ Rails:
 Rail bracing:
 	Steel
 	3 bands, 57mm x 46mm x 100mm
+	mass:		1,488g each
+				4,465g total
+				
+				
+Heat sinks:
+	Two on each side, for four total.
+	Forward hand grip is located between the pairs.
+	Hell if I know the specifics yet.
 
 	
 Slugs:
