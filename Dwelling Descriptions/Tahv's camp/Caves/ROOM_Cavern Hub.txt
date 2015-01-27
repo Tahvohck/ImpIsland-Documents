@@ -1,0 +1,22 @@
+###
+# Title
+###
+Caves - Cavern Hub
+
+###
+# Description
+###
+A large, open cavern with many entrances and exits. Several floodlights dot the perimeter and shine towards the ceiling and supply enough light to see by, though there's still plenty of shadowy area. There's not much special beyond that in this room, but it feels like you'll always come back here if you wander long enough.
+
+###
+# Pages
+###
+Examine a floodlight
+
+###
+# Linked Rooms
+###
+Caves - Underwater Cavern
+Caves - Resurrection Totem
+Caves - Raven's Cell
+Caves - The Armory
