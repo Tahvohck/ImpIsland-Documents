@@ -1,0 +1,9 @@
+###
+# Title
+###
+Examine a floodlight
+
+###
+# Description
+###
+You step over to one of the floodlights. It seems like a standard construction floodlight, but the power cord has been snipped off after two feet and fed into a battery mount. The battery looks like a lightning gun battery, which seems very likely since the mount currently reads "25 days | 86.4%".
