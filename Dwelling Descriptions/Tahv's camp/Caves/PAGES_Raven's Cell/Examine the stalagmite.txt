@@ -1,0 +1,9 @@
+###
+# Title
+###
+Examine the stalagmite
+
+###
+# Description
+###
+The stalagmite has been flattened off at waist height and the sharp edges created by this rounded off. An 8x8 grid has been carved into the top with a gem set into each square. The gems are red and blue in a checker board pattern; when touched, an immaterial chess set floats above them. Touching a gem with a piece over it lights up that gem, and dimly lights up all the places that piece can go.

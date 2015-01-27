@@ -1,0 +1,9 @@
+###
+# Title
+###
+Examine the cot
+
+###
+# Description
+###
+The cot is a fairly simple one. There's enough blankets that it should be both comfortable and warm, but the only thing special about it is that its legs meld directly into the rock.
