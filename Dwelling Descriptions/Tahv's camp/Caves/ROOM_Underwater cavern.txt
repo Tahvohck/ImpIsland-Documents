@@ -1,7 +1,7 @@
 ###
 # Title
 ###
-Underwater cavern
+Caves - Underwater cavern
 
 ###
 # Description
@@ -16,3 +16,13 @@ This underwater cave seems like it's part of a movie set: the pool in the center
 The pool itself is about about 15 feet across, and slightly oval: large, but not so much that it would be tiring to swim across. The walkway around it is wide enough to fit three people at its thinnest, and wide enough for a small crowd at its thickest, by the stairs. Looking up, the walls have many small niches in them: some only large enough to hold one of the many glowsticks, others large enough that you could easily store things in. And, indeed, some are in use: the most promient has a stack of towels in it, another seems to have a few changes of clothes.`n`n
 
 `idrip.........`i
+
+###
+# Pages
+###
+
+###
+# Linked Rooms
+###
+Caves - Cavern Hub
+Lake's Clearing
