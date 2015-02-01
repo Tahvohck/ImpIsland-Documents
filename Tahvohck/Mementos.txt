@@ -12,12 +12,13 @@ This sword has been refined over the years, but its maker's lack of skill at the
 --------------------------------
 Railgun
 
-[4' 6", 4' rails. 60x10mm slugs (75g). Power source: lightning gun battery, side mount. Bullpup design.]
+[4' 6", 4' rails. 10x41mm slugs (25g). Power source: lightning gun battery, side mount. Bullpup design.]
 
 --------------------------------
 Wristplate
 
 [Metal plate, 2"x4". Leather strap 3" wide. Purple crystal inset to plate, can be removed with effort]
+A simple metal plate with a purple crystal set into it. Affixed to the wearer's wrist by a 3" wide leather strap with a low-profile buckle. The crystal could be removed with some effort, and has a minor psychic signature.
 
 --------------------------------
 Memento Mori, the bone knife

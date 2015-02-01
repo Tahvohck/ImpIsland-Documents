@@ -28,7 +28,8 @@ Rails:
 
 Rail bracing:
 	Steel
-	3 bands, 57mm x 46mm x 100mm
+	3 bands, 57mm x 46mm x 100mm (DxWxL)
+	12mm thickness
 	mass:		1,488g each
 				4,465g total
 				
