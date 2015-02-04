@@ -8,6 +8,13 @@ Cabin in the Woods - Study
 ###
 
 ###
-# Linked pages
+# Pages
 ###
 The wall of masks
+
+###
+# Linked Rooms
+###
+Cabin in the Woods - Lobby
+Cabin in the Woods - Master Bedroom
+Cabin in the Woods - Master Bathroom

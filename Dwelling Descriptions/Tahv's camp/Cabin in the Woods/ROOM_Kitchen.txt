@@ -1,0 +1,18 @@
+###
+# Title
+###
+Cabin in the Woods - Kitchen
+
+###
+# Description
+###
+
+###
+# Pages
+###
+
+###
+# Linked Rooms
+###
+Cabin in the Woods - Lobby
+Cabin in the Woods - Upstairs Landing, Kitchen

@@ -12,6 +12,14 @@ Stairs to the upper floor take up a large portion of the room, and in fact make 
 On the left side of the stairs is a living area, where the fireplace sits surrounded by many hand-made chairs. A bench tucked into the bend of the stairway has a large flat pillow on top to make it comfortable, with many fuzzy furs on top of that. On the right of the stairs is a dining table, though more often than not it has assorted sets of cards and dice on it instead of dishes or food. Beyond that is a doorway to the rest of this floor and a closet built into the side of the stairs.
 
 ###
-# Linked pages
+# Pages
 ###
 Next to the fireplace (Left of the room)
+
+###
+# Linked Rooms
+###
+Cabin in the Woods
+Cabin in the Woods - Upstairs Landing, Lobby
+Cabin in the Woods - Tahv's study
+Cabin in the Woods - Kitchen
