@@ -1,7 +1,7 @@
 `@`bJust the facts:`b
 `6Human
-`6Height:`& 5'10"
-`6Estimated weight:`& 160 lbs.
+`6Height:`& 5'7"
+`6Estimated weight:`& 145 lbs.
 `6Build:`& Just barely fit.
 `6Eyes:`& Blue, no pupils (Iris all the way to the center)
 `6Hair:`&'Dirty blond', leaning on the brown side. Cut just below the shoulders.
@@ -10,7 +10,8 @@
 `&>Featureless black shirt, jeans--additional pockets sewn on 'cargo style'.
 >Sometimes a cloak, other times a hiking pack.
 >Wooden pendant, hand carved, shield.
->Burn scarring on her right shoulder.
+>Wraithbone ring on her right ring finger.
+>Burn scarring on her right shoulder, chest, a bit of her back.
 >Bandolier sports a Boy Scouts of America logo, uncolored, on the shoulder.
 >On her right wrist, there's a bracer--really more of a metal plate with a strap--with a purple crystal that's about two inches long set in it.
 
@@ -20,3 +21,10 @@
 If you you get a closer look however you'll notice that her bandolier is customized, the added pockets on her pants, and of course you might remember that Rookies aren't dropped clothed in the first place. Nor do they often carry weapons that can hold their own in a fight: there's a nice-looking one-handed sword and a much larger rifle strapped to her bandolier.
 
 And of course an even closer look will reveal even more: those eyes you thought were just highly constricted? No, the irises go straight to the center, making it almost look like she's blind, but there's no milkiness to them and they follow your movements easily. Her skin, at first glance unmarked, is actually littered with small scars of deep scratches, especially on her hands. There's even a handful of larger scars on her arms, presumably where she failed to block properly in a fight. Then, if you happen to catch her with her shirt off, the worst of all of them: a `ilong`i burn along her right shoulder, stretching from a little above her stomach, up and around her shoulder and actually rising up her neck a little, then diving a few inches down her back.
+
+`@`bOut-of-character things:`b
+`6These are things that are not inherently obvious on a visual inspection. Please, if your character shouldn't be able to detect this, `idon't act on it.`i
+`&His mind is being copied near-constantly to the crystal in his bracer.
+When the crystal is glowing, information is flowing back into his mind.
+He has a strong mental connection to two other minds: Cella and Vesper. They are "shards" of him, and based their personalities off of a corruption of his.
+He has a second nervous system, simpler than and running in parallel to his primary one. It also carries a much stronger charge and has spots to store electricity.
