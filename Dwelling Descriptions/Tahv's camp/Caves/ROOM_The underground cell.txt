@@ -1,0 +1,20 @@
+###
+# Title
+###
+Caves - The underground cell
+
+###
+# Description
+###
+You have to pass through an airlock to enter this cell, one that opens only from the outside.`n`nThis cavern is lit by several large gems embedded in the ceiling though you're not sure how you know... the light doesn't seem to be coming from them directly, at least. It's more of a background glow. A cot sits off to one side, legs melded into the stone. A stalagmite has been cut flat on top near the bed and the edges rounded off. Improbability has seeped back into the stone these days... something its previous occupant probably would have appreciated. 
+
+###
+# Pages
+###
+Examine the cot
+Examine the stalagmite
+
+###
+# Linked Rooms
+###
+Caves - Cavern Hub
