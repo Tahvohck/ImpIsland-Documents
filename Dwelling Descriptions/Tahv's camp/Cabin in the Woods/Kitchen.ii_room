@@ -1,0 +1,39 @@
+kitchen = {
+
+roomid = 22359,
+title = "Cabin in the Woods - Kitchen",
+description = [[
+cabinets, countertops on left, two walls
+shorter wall, glass drying rack w/ cups left on it, sink, wash area
+
+left of stove: spatulas, wooden spoons, scissors, etc
+oven/stove in longer counter, 
+right of oven: magnetic knife holder + ladles (above), cutting board
+
+island in center of countertop L, big enough to butcher a deer leg on
+utensils in drawer in island, large pots etc
+
+stairs in far left corner, steep, bend after three steps
+ice chest under the second part of the stairs
+
+table in far right corner, booth on wall sits 3-4 people, window behind
+chairs on other side of table
+
+door to outside on right wall
+
+fridge to the right of the door (to the lobby, but also technically to outside), not fancy (no water hookup etc), freezer on bottom
+]],
+
+pages = {
+	{"Sink area", ""},
+	{"Stove area", ""},
+	{"Table", ""},
+	{"Island", ""},
+},
+
+doors_to = {
+	"Cabin in the Woods - Lobby"
+	"Cabin in the Woods - Upstairs Landing, Kitchen"
+},
+
+}
