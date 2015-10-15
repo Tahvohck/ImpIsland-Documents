@@ -1,0 +1,25 @@
+lobby = {
+
+roomid = 21043,
+title = "Cabin in the Woods - Lobby",
+
+description = [[
+Warm. If you had to describe this room in one word, it'd be "warm".
+Not because the air is warm, mind you--although in this climate it does tend to be, even without a fire going--but because of the look of it. Almost everything in here is made either of stained wood, with small exceptions for the fireplace (large, flat stones) and things that need to stand up to abuse like the firewood rack (thick metal), so the room itself is dark and brown. Windows ring the outer walls and let in as much natural light in as possible, but there are two kerosene lamps hanging from the ceiling for when it gets dark, both of them old-fashioned. 
+Stairs to the upper floor take up a large portion of the room, and in fact make up the centerpiece of it. They are wide, deep stairs, that probably have an unfortunate spot where they will creak no matter how carefully you step on them, and the banisters seem to be small trees--two hands would just barely make it around--that have been sanded down just enough to be smooth, but not so much as to remove the knots in the wood. They start on the left side of the room and go up three stairs before turning left and continuing upwards, away from the front door.
+On the left side of the stairs is a living area, where the fireplace sits surrounded by many hand-made chairs. A bench tucked into the bend of the stairway has a large flat pillow on top to make it comfortable, with many fuzzy furs on top of that. On the right of the stairs is a dining table, though more often than not it has assorted sets of cards and dice on it instead of dishes or food. Beyond that is a doorway to the rest of this floor and a closet built into the side of the stairs.
+]],
+
+pages = {
+	{"Next to the fireplace (Left of the room)",
+		""},
+},
+
+doors_to = {
+	"Cabin in the Woods",
+	"Cabin in the Woods - Upstairs Landing, Lobby",
+	"Cabin in the Woods - Tahv's study",
+	"Cabin in the Woods - Kitchen",
+},
+
+}
