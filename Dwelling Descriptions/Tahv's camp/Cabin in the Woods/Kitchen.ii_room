@@ -3,6 +3,11 @@ kitchen = {
 roomid = 22359,
 title = "Cabin in the Woods - Kitchen",
 description = [[
+This is clearly the kitchen of someone that likes to cook and doesn't mind getting dirty while doing so. The two inner walls are the cooking area and primarily occupied by counter space. The shorter counter--next to the door to the lobby--is the washing area, with a sink and drying area. The other counter is where all the cooking is done: a stove/oven combo is built into it next to a large cutting board, and most of the utensils needed for cooking hanging on the wall. The island in the center big enough to butcher a deer leg on and fairly plain, with a few drawers and a cabinet underneath.
+An ice chest is tucked below the steep staircase in the back left. The back right corner is filled by the dining area; a booth seat that could easily fit four people is built against the wall, with chairs on the other side of the table.
+
+-----
+
 cabinets, countertops on left, two walls
 shorter wall, glass drying rack w/ cups left on it, sink, wash area
 
@@ -27,6 +32,7 @@ fridge to the right of the door (to the lobby, but also technically to outside),
 pages = {
 	{"Sink area", ""},
 	{"Stove area", ""},
+	{"Staircase", ""},
 	{"Table", ""},
 	{"Island", ""},
 },
